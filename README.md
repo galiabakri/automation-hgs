@@ -24,6 +24,10 @@ This automation covers an integrated user journey on the HGS careers site:
 5. Fill in First Name as `Rajamani` and Last Name as `Saravanan`.
 6. Submit the form without a phone number.
 7. Assert that an error message appears: **"Phone number is mandatory"**
+8. Contact
+Created by Galya Bakri
+🔗 GitHub Profile  https://github.com/galiabakri
+📧 Open to contributions and feedback!
 
 
 
