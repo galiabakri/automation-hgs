@@ -1,0 +1,11 @@
+{
+  "name": "automation-hgs",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "cucumber": "^9.0.0",
+    "taiko": "^1.3.0"
+  }
+}
